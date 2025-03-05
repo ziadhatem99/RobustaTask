@@ -27,7 +27,3 @@ A web automation testing project using **TestNG** and **Selenium WebDriver** wit
 3. Run tests:
     mvn clean test
 
-🛠 Key Features
-Page Object Model (POM) pattern.
-API Testing with Rest-Assured.
-Cross-browser testing support.
