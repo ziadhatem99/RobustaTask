@@ -20,7 +20,7 @@ A web automation testing project using **TestNG** and **Selenium WebDriver** wit
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/RobustaTask.git
+   git clone https://github.com/ziadhatem99/RobustaTask.git
 
 2. Navigate to the project:**
     run the command: cd RobustaTask
