@@ -26,4 +26,5 @@ A web automation testing project using **TestNG** and **Selenium WebDriver** wit
     run the command: cd RobustaTask
 3. Run tests:
     mvn clean test
+4. You can also run through the testNg.xml File   
 
